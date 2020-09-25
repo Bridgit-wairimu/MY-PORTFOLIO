@@ -1,0 +1,127 @@
+
+header{
+    background-color: slategrey;
+    margin: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+body{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#nav{
+    margin: 5px;
+    padding: 10px;
+    font-weight: bolder;
+    color: black;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: black;
+    color:white;
+}
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+img{
+    width: 500px;
+    height: auto;
+    float: left;
+}
+.sidebar{
+    width: 30px;
+    float: right;
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+#projects{
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+#description{
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+h2 , h3 ,h4{
+    color: blue;
+}
+#about,p{
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+#interests{
+    font-family: sans-serif;
+    text-align: center;
+}
+#hobbies{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+}
+
+#skills{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+}
+#contact,p{
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: large;
+}
+h1{
+    color: blue;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+#footer{
+    background-color: slategrey;
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+
+}
+
+
