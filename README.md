@@ -16,9 +16,9 @@
 #### git push origin master_git push origin will push changes from all local branches to matching branches the origin remote.And also will push 
 #### the local changes to the remote master branch.
 
-# After following the above setup we would like others to see our project accessing our link on our github account.
+## After following the above setup we would like others to see our project accessing our link on our github account.
 #### so now lets put our link by following the steps below.
-# first lets create a branch called gh-pages.
+## first lets create a branch called gh-pages.
 #### we git branch gh-pages
 #### then git add . 
 #### git status
