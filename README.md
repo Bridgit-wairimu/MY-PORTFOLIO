@@ -1,5 +1,5 @@
 # MY PORTFOLIO
-# Bridgit Wairimu Kirika
+## Bridgit Wairimu Kirika
 #### My portfolio is a project that i designed to help people understand me better what i do and the projects that i have worked on.
 #### Am looking forward to learn more about programming and to acquire and improve my skills and knowledge in coding.I am so excited to be part of the program and am looking forward to continue learning at Moringa school.
 
@@ -38,6 +38,9 @@
 # Contact details
 #### If you have any issues or queries you can contact me through my facebook page (Bridgit Kirika) and my whatsapp number (0782091662).
 #### And also if you would like to contribute to my project feel free to contact me through my contacts.
+
+# LINK
+### https://bridgit-wairimu.github.io/MY-PORTFOLIO/
 
 # LICENSE
 #### MIT License
