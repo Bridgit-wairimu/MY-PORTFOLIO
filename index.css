@@ -74,6 +74,16 @@ img{
     font-size: larger;
     text-align: center;
 }
+.very{
+    color: hotpink;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.moringa{
+    color: hotpink;
+    font-weight: bolder;
+    font-size: xx-large;
+}
 #projects{
     font-weight: bolder;
     font-size: larger;
