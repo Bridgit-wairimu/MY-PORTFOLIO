@@ -1,4 +1,5 @@
 # MY PORTFOLIO
+# Bridgit Wairimu Kirika
 #### My portfolio is a project that i designed to help people understand me better what i do and the projects that i have worked on.
 #### Am looking forward to learn more about programming and to acquire and improve my skills and knowledge in coding.I am so excited to be part of the program and am looking forward to continue learning at Moringa school.
 
